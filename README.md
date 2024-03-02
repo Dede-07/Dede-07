@@ -6,7 +6,7 @@
 
 ###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript 
 
-<p><sup><kbd><a href="https://github.com/andrrade?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
+<p><sup><kbd><a href="https://github.com/Dede-07?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
 
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
@@ -17,13 +17,13 @@
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![Laura GitHub Streak](https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+[![Andre GitHub Streak](https://streak-stats.demolab.com?user=Dede-07&theme=nightowl&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
 <div>
  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=donut">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dede-07&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dede-07&theme=nightowl&layout=donut">
 
-[![Laura github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrrade&bg_color=transparent&color=7951eb&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Andre github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dede-07&bg_color=transparent&color=7951eb&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source
@@ -44,9 +44,6 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h3 align="left">💻 Contact</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-andrade-38a962289/)
-<a href="mailto:lauraandradedeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7951eb,100:a82da8&height=120&section=footer"/> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-scarano-carrijo-69b09a208/)
