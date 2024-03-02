@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:a82da8,100:7951eb&height=200&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7951eb&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+André+:%29+;Estou+cursando+Análise+Desenvolvimento+de+Sistemas+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7951eb&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+o+André+:%29+;Estou+cursando+A.D.S+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
 
 <img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
 
 ###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript 
 
-<p><sup><kbd><a href="https://github.com/Dede-07?tab=repositories" style="font-size: 1.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
+<p><sup><kbd><a href="https://github.com/Dede-07?tab=repositories" style="font-size: 2.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
 
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
