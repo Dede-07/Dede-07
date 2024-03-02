@@ -47,5 +47,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-scarano-carrijo-69b09a208/)
 <a href="mailto:andrecarrijo0710@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Facebook]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white))](https://www.facebook.com/profile.php?id=100010718385731&locale=pt_BR)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7951eb,100:a82da8&height=120&section=footer"/> 
