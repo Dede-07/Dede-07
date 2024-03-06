@@ -4,7 +4,7 @@
 
 <img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Pessoa programando">
 
-###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript 
+###### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando linguagens de programação. 
 
 <p><sup><kbd><a href="https://github.com/Dede-07?tab=repositories" style="font-size: 2.5em;">Clique aqui</a></kbd></sup> para ver meus projetos. Espero que goste! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></sup><br></p>
 
